@@ -1,0 +1,22 @@
+element.style {
+
+}
+
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    background: saddlebrown;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    display: block;
+}
+
+link {
+    display: inline-block;
+}
